@@ -29,9 +29,8 @@ Soy un desarrollador colombiano con experiencia tanto en **Front-End** como en *
 
 
 ### Más sobre mi
-
+<!--* 🖥️  <b>Mi portafolio [hola](http://nexuspage.com)</b> -->
 * 🌍  <b>Estoy en Colombia</b>
-* 🖥️  <b>Mi portafolio [hola](http://nexuspage.com)</b>
 * 🧠  <b>Actualmente estudio Ingeniería de Software comercial</b>
 * 🤝  <b>Estoy abierto a colaborar en proyectos de cualquier tipo</b>
 * ⚡  <b>Me encanta el trabajo en equipo</b>
