@@ -28,18 +28,19 @@ Soy un desarrollador colombiano con experiencia tanto en **Front-End** como en *
 
 
 
+### Más sobre mi
 
-* 🌍  Estoy en Colombia
-* 🖥️  Mi portafolio [hola](http://nexuspage.com)
-* 🧠  Actualmente estudio Ingeniería de Software comercial
-* 🤝  Estoy abierto a colaborar en proyectos de cualquier tipo
-* ⚡  Me encanta el trabajo en equipo
+* 🌍  <b>Estoy en Colombia</b>
+* 🖥️  <b>Mi portafolio [hola](http://nexuspage.com)</b>
+* 🧠  <b>Actualmente estudio Ingeniería de Software comercial</b>
+* 🤝  <b>Estoy abierto a colaborar en proyectos de cualquier tipo</b>
+* ⚡  <b>Me encanta el trabajo en equipo</b>
 
 ### 🌍 Redes Sociales y Contacto
 
 <p align="left"> <a href="https://discord.com/users/704811363448520847" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.github.com/vicrak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
 
-📬 **Contacto directo:**  
+### 📬 **Contacto directo:**  
 [![Gmail](https://img.shields.io/badge/Email-oviedocardonav@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oviedocardonav@gmail.com)
 
 
