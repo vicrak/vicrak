@@ -48,6 +48,9 @@ Soy un desarrollador colombiano con experiencia tanto en **Front-End** como en *
 <a href="https://www.github.com/vicrak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vicrak?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a>
 
+<a href="http://www.github.com/vicrak"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vicrak&stroke=ffffff&background=181824&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="http://www.github.com/vicrak"><img src="https://github-readme-stats.vercel.app/api?username=vicrak&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="vicrak's GitHub stats" /></a>
 
-<a href="https://github.com/vicrak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicrak&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/vicrak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicrak&layout=compact&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+
