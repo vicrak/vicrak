@@ -4,7 +4,7 @@
 
 &nbsp;
 
-I'm a Colombian developer with experience in both **front-end** and **back-end**, using technologies such as **Java**, **JavaScript**, **PHP**, and more.  
+I am a Colombian developer with experience in both **front-end** and **back-end** development, using technologies such as **Java**, **JavaScript**, **PHP**, **SQL**, and add-ons such as **HTML** and **CSS**.
 I love teamwork and learning new things.
 
 ---
